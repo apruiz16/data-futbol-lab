@@ -9,6 +9,14 @@ Ofrece tablas de grupos, resultados del día, próximos partidos, ranking de sel
 
 ---
 
+## 🌐 Live Demo
+
+**App pública:** [https://data-futbol-lab.streamlit.app](https://data-futbol-lab.streamlit.app)
+
+> ⚠️ La versión actual utiliza **datos ficticios (DEMO)**. No representan resultados ni estadísticas oficiales de ningún torneo. El banner "Modo DEMO" es visible en la parte superior de la app.
+
+---
+
 ## Stack tecnológico
 
 - **Python 3.11+**
@@ -45,7 +53,7 @@ data-futbol-lab/
 
 ```bash
 # 1. Clonar el repositorio
-git clone https://github.com/tu-usuario/data-futbol-lab.git
+git clone https://github.com/apruiz16/data-futbol-lab.git
 cd data-futbol-lab
 
 # 2. Crear entorno virtual (recomendado)

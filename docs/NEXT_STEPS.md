@@ -33,30 +33,30 @@ Objetivo: que el dashboard luzca publicable y sea fácil de leer en pantalla y e
 
 ---
 
-## Fase 3 — Preparar para GitHub
+## Fase 3 — Preparar para GitHub ✅ COMPLETADA
 
 Objetivo: que el repositorio sea legible y usable por cualquier persona que lo visite.
 
-- [ ] Crear el repositorio en GitHub (público o privado según preferencia)
-- [ ] Hacer el primer commit limpio con todos los archivos actuales
+- [x] Crear el repositorio en GitHub → `https://github.com/apruiz16/data-futbol-lab`
+- [x] Hacer el primer commit limpio con todos los archivos actuales
 - [ ] Añadir `.github/` con un `ISSUE_TEMPLATE.md` básico (opcional pero profesional)
-- [ ] Revisar que no hay credenciales, datos privados ni archivos sensibles en el repo
+- [x] Revisar que no hay credenciales, datos privados ni archivos sensibles en el repo
 - [ ] Añadir etiquetas al repositorio: `python`, `streamlit`, `football`, `data-analysis`
 - [ ] Escribir una descripción corta del repositorio en GitHub
 
 ---
 
-## Fase 4 — Desplegar en Streamlit Community Cloud
+## Fase 4 — Desplegar en Streamlit Community Cloud ✅ COMPLETADA
 
 Objetivo: tener una URL pública funcional y compartible.
 
-- [ ] Crear cuenta en [streamlit.io](https://streamlit.io) (gratuita)
-- [ ] Conectar el repositorio de GitHub a Streamlit Cloud
-- [ ] Verificar que `requirements.txt` lista exactamente las versiones correctas
-- [ ] Confirmar que las rutas de datos (Path en `utils.py`) funcionan en el entorno cloud
-- [ ] Hacer el primer deploy y verificar todas las secciones en producción
-- [ ] Compartir la URL del dashboard como primera versión pública
-- [ ] Documentar la URL en el `README.md`
+- [x] Crear cuenta en [streamlit.io](https://streamlit.io) (gratuita)
+- [x] Conectar el repositorio de GitHub a Streamlit Cloud
+- [x] Verificar que `requirements.txt` lista exactamente las versiones correctas
+- [x] Confirmar que las rutas de datos (`Path(__file__)` en `utils.py`) funcionan en el entorno cloud
+- [x] Hacer el primer deploy y verificar todas las secciones en producción
+- [x] Compartir la URL del dashboard como primera versión pública → [https://data-futbol-lab.streamlit.app](https://data-futbol-lab.streamlit.app)
+- [x] Documentar la URL en el `README.md`
 
 ---
 
@@ -100,9 +100,9 @@ Objetivo: generar valor y, opcionalmente, algún ingreso mínimo sin comprometer
 
 ## Criterios para considerar el proyecto "listo para mostrar"
 
-- [ ] Corre sin errores en producción (Streamlit Cloud)
-- [ ] Tiene URL pública compartible
-- [ ] Los datos están actualizados (manual o automáticamente)
-- [ ] El disclaimer legal es visible en todas las pantallas
-- [ ] No hay datos DEMO mezclados con datos reales sin indicación clara
-- [ ] El README explica claramente qué es, cómo usarlo y que es independiente
+- [x] Corre sin errores en producción (Streamlit Cloud)
+- [x] Tiene URL pública compartible → [https://data-futbol-lab.streamlit.app](https://data-futbol-lab.streamlit.app)
+- [ ] Los datos están actualizados (manual o automáticamente) — *pendiente: aún en modo DEMO*
+- [x] El disclaimer legal es visible en todas las pantallas
+- [x] No hay datos DEMO mezclados con datos reales sin indicación clara
+- [x] El README explica claramente qué es, cómo usarlo y que es independiente

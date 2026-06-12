@@ -1,8 +1,9 @@
 # Checkpoint 01 — Data Fútbol Lab v0.1 DEMO
 
 **Fecha:** 2026-06-12  
-**Estado:** Funcional en local · No desplegado · Datos 100% ficticios (DEMO)  
-**Versión:** 0.1
+**Estado:** ✅ Funcional en local · ✅ Desplegado en Streamlit Cloud · Datos 100% ficticios (DEMO)  
+**Versión:** 0.1  
+**URL pública:** [https://data-futbol-lab.streamlit.app](https://data-futbol-lab.streamlit.app)
 
 ---
 
@@ -11,6 +12,9 @@
 El proyecto corre correctamente con `streamlit run app.py` desde la raíz.
 Todas las secciones del dashboard se renderizan sin errores.
 Los datos son completamente ficticios y están marcados como `DEMO` tanto en los CSV (columna `source`) como en el banner del dashboard.
+
+El deploy inicial en Streamlit Community Cloud fue completado el 2026-06-12.
+La app está accesible públicamente en [https://data-futbol-lab.streamlit.app](https://data-futbol-lab.streamlit.app).
 
 ---
 
@@ -130,13 +134,17 @@ El subtítulo del header dice "Tablas, partidos y escenarios en tiempo real" per
 
 ---
 
-## ¿Listo para subir a GitHub?
+## Estado de GitHub y deploy
 
-**Casi.** Antes de hacer el primer `git push`:
+| Hito | Estado | Fecha |
+|---|---|---|
+| Primer commit local | ✅ Completado | 2026-06-12 |
+| Push a GitHub (`apruiz16/data-futbol-lab`) | ✅ Completado | 2026-06-12 |
+| Deploy en Streamlit Community Cloud | ✅ Completado | 2026-06-12 |
+| URL pública activa | ✅ [data-futbol-lab.streamlit.app](https://data-futbol-lab.streamlit.app) | 2026-06-12 |
 
-1. Confirmar que `.gitignore` incluye `venv/` (ya lo hace ✅)
-2. Personalizar la URL de Ko-fi en `app.py`
-3. Opcional: agregar una imagen de preview del dashboard al README
-4. Crear el repositorio en GitHub y hacer el primer commit
+**Pendiente antes del siguiente hito:**
+- Personalizar la URL de Ko-fi en `app.py`
+- Agregar captura de pantalla del dashboard al `README.md`
 
 Ver `NEXT_STEPS.md` para la hoja de ruta completa.
