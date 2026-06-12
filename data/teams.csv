@@ -1,0 +1,33 @@
+team_id,team_name,confederation,fifa_ranking,group,flag_emoji,source
+1,Argentina,CONMEBOL,1,A,🇦🇷,DEMO
+2,Marruecos,CAF,14,A,🇲🇦,DEMO
+3,Arabia Saudita,AFC,56,A,🇸🇦,DEMO
+4,Polonia,UEFA,26,A,🇵🇱,DEMO
+5,España,UEFA,8,B,🇪🇸,DEMO
+6,Brasil,CONMEBOL,5,B,🇧🇷,DEMO
+7,Costa Rica,CONCACAF,42,B,🇨🇷,DEMO
+8,Camerún,CAF,43,B,🇨🇲,DEMO
+9,Francia,UEFA,2,C,🇫🇷,DEMO
+10,Alemania,UEFA,15,C,🇩🇪,DEMO
+11,Japón,AFC,20,C,🇯🇵,DEMO
+12,Australia,AFC,27,C,🇦🇺,DEMO
+13,Portugal,UEFA,6,D,🇵🇹,DEMO
+14,Senegal,CAF,18,D,🇸🇳,DEMO
+15,México,CONCACAF,13,D,🇲🇽,DEMO
+16,Suiza,UEFA,21,D,🇨🇭,DEMO
+17,Inglaterra,UEFA,4,E,🏴󠁧󠁢󠁥󠁮󠁧󠁿,DEMO
+18,Uruguay,CONMEBOL,12,E,🇺🇾,DEMO
+19,Ghana,CAF,61,E,🇬🇭,DEMO
+20,Irán,AFC,22,E,🇮🇷,DEMO
+21,Países Bajos,UEFA,7,F,🇳🇱,DEMO
+22,Colombia,CONMEBOL,19,F,🇨🇴,DEMO
+23,Ecuador,CONMEBOL,44,F,🇪🇨,DEMO
+24,Qatar,AFC,37,F,🇶🇦,DEMO
+25,Italia,UEFA,9,G,🇮🇹,DEMO
+26,Croacia,UEFA,10,G,🇭🇷,DEMO
+27,Bélgica,UEFA,3,G,🇧🇪,DEMO
+28,Canadá,CONCACAF,41,G,🇨🇦,DEMO
+29,Brasil,CONMEBOL,5,H,🇧🇷,DEMO
+30,Serbia,UEFA,25,H,🇷🇸,DEMO
+31,Suiza,UEFA,21,H,🇨🇭,DEMO
+32,Camerún,CAF,43,H,🇨🇲,DEMO
