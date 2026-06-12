@@ -1,33 +1,33 @@
-team_id,team_name,confederation,fifa_ranking,group,flag_emoji,source
-1,Argentina,CONMEBOL,1,A,🇦🇷,DEMO
-2,Marruecos,CAF,14,A,🇲🇦,DEMO
-3,Arabia Saudita,AFC,56,A,🇸🇦,DEMO
-4,Polonia,UEFA,26,A,🇵🇱,DEMO
-5,España,UEFA,8,B,🇪🇸,DEMO
-6,Brasil,CONMEBOL,5,B,🇧🇷,DEMO
-7,Costa Rica,CONCACAF,42,B,🇨🇷,DEMO
-8,Camerún,CAF,43,B,🇨🇲,DEMO
-9,Francia,UEFA,2,C,🇫🇷,DEMO
-10,Alemania,UEFA,15,C,🇩🇪,DEMO
-11,Japón,AFC,20,C,🇯🇵,DEMO
-12,Australia,AFC,27,C,🇦🇺,DEMO
-13,Portugal,UEFA,6,D,🇵🇹,DEMO
-14,Senegal,CAF,18,D,🇸🇳,DEMO
-15,México,CONCACAF,13,D,🇲🇽,DEMO
-16,Suiza,UEFA,21,D,🇨🇭,DEMO
-17,Inglaterra,UEFA,4,E,🏴󠁧󠁢󠁥󠁮󠁧󠁿,DEMO
-18,Uruguay,CONMEBOL,12,E,🇺🇾,DEMO
-19,Ghana,CAF,61,E,🇬🇭,DEMO
-20,Irán,AFC,22,E,🇮🇷,DEMO
-21,Países Bajos,UEFA,7,F,🇳🇱,DEMO
-22,Colombia,CONMEBOL,19,F,🇨🇴,DEMO
-23,Ecuador,CONMEBOL,44,F,🇪🇨,DEMO
-24,Qatar,AFC,37,F,🇶🇦,DEMO
-25,Italia,UEFA,9,G,🇮🇹,DEMO
-26,Croacia,UEFA,10,G,🇭🇷,DEMO
-27,Bélgica,UEFA,3,G,🇧🇪,DEMO
-28,Canadá,CONCACAF,41,G,🇨🇦,DEMO
-29,Brasil,CONMEBOL,5,H,🇧🇷,DEMO
-30,Serbia,UEFA,25,H,🇷🇸,DEMO
-31,Suiza,UEFA,21,H,🇨🇭,DEMO
-32,Camerún,CAF,43,H,🇨🇲,DEMO
+team_id,team_name,confederation,fifa_ranking,group,flag_emoji,data_status,source_name,source_url,last_updated,notes
+1,Argentina,CONMEBOL,1,A,🇦🇷,demo,Demo,,2026-06-12,Datos ficticios para pruebas
+2,Marruecos,CAF,14,A,🇲🇦,demo,Demo,,2026-06-12,Datos ficticios para pruebas
+3,Arabia Saudita,AFC,56,A,🇸🇦,demo,Demo,,2026-06-12,Datos ficticios para pruebas
+4,Polonia,UEFA,26,A,🇵🇱,demo,Demo,,2026-06-12,Datos ficticios para pruebas
+5,España,UEFA,8,B,🇪🇸,demo,Demo,,2026-06-12,Datos ficticios para pruebas
+6,Brasil,CONMEBOL,5,B,🇧🇷,demo,Demo,,2026-06-12,Datos ficticios para pruebas
+7,Costa Rica,CONCACAF,42,B,🇨🇷,demo,Demo,,2026-06-12,Datos ficticios para pruebas
+8,Camerún,CAF,43,B,🇨🇲,demo,Demo,,2026-06-12,Datos ficticios para pruebas
+9,Francia,UEFA,2,C,🇫🇷,demo,Demo,,2026-06-12,Datos ficticios para pruebas
+10,Alemania,UEFA,15,C,🇩🇪,demo,Demo,,2026-06-12,Datos ficticios para pruebas
+11,Japón,AFC,20,C,🇯🇵,demo,Demo,,2026-06-12,Datos ficticios para pruebas
+12,Australia,AFC,27,C,🇦🇺,demo,Demo,,2026-06-12,Datos ficticios para pruebas
+13,Portugal,UEFA,6,D,🇵🇹,demo,Demo,,2026-06-12,Datos ficticios para pruebas
+14,Senegal,CAF,18,D,🇸🇳,demo,Demo,,2026-06-12,Datos ficticios para pruebas
+15,México,CONCACAF,13,D,🇲🇽,demo,Demo,,2026-06-12,Datos ficticios para pruebas
+16,Suiza,UEFA,21,D,🇨🇭,demo,Demo,,2026-06-12,Datos ficticios para pruebas
+17,Inglaterra,UEFA,4,E,🏴󠁧󠁢󠁥󠁮󠁧󠁿,demo,Demo,,2026-06-12,Datos ficticios para pruebas
+18,Uruguay,CONMEBOL,12,E,🇺🇾,demo,Demo,,2026-06-12,Datos ficticios para pruebas
+19,Ghana,CAF,61,E,🇬🇭,demo,Demo,,2026-06-12,Datos ficticios para pruebas
+20,Irán,AFC,22,E,🇮🇷,demo,Demo,,2026-06-12,Datos ficticios para pruebas
+21,Países Bajos,UEFA,7,F,🇳🇱,demo,Demo,,2026-06-12,Datos ficticios para pruebas
+22,Colombia,CONMEBOL,19,F,🇨🇴,demo,Demo,,2026-06-12,Datos ficticios para pruebas
+23,Ecuador,CONMEBOL,44,F,🇪🇨,demo,Demo,,2026-06-12,Datos ficticios para pruebas
+24,Qatar,AFC,37,F,🇶🇦,demo,Demo,,2026-06-12,Datos ficticios para pruebas
+25,Italia,UEFA,9,G,🇮🇹,demo,Demo,,2026-06-12,Datos ficticios para pruebas
+26,Croacia,UEFA,10,G,🇭🇷,demo,Demo,,2026-06-12,Datos ficticios para pruebas
+27,Bélgica,UEFA,3,G,🇧🇪,demo,Demo,,2026-06-12,Datos ficticios para pruebas
+28,Canadá,CONCACAF,41,G,🇨🇦,demo,Demo,,2026-06-12,Datos ficticios para pruebas
+29,Brasil,CONMEBOL,5,H,🇧🇷,demo,Demo,,2026-06-12,Datos ficticios para pruebas
+30,Serbia,UEFA,25,H,🇷🇸,demo,Demo,,2026-06-12,Datos ficticios para pruebas
+31,Suiza,UEFA,21,H,🇨🇭,demo,Demo,,2026-06-12,Datos ficticios para pruebas
+32,Camerún,CAF,43,H,🇨🇲,demo,Demo,,2026-06-12,Datos ficticios para pruebas

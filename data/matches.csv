@@ -1,11 +1,11 @@
-match_id,date,time,home_team,away_team,home_score,away_score,group,stage,venue,status,source
-1,2026-06-12,15:00,Argentina,Marruecos,2,1,A,Grupo,MetLife Stadium,Finalizado,DEMO
-2,2026-06-12,18:00,España,Brasil,1,1,B,Grupo,SoFi Stadium,Finalizado,DEMO
-3,2026-06-12,21:00,Francia,Alemania,,,C,Grupo,AT&T Stadium,Programado,DEMO
-4,2026-06-13,15:00,Portugal,Senegal,,,D,Grupo,Levi's Stadium,Programado,DEMO
-5,2026-06-13,18:00,Inglaterra,México,,,E,Grupo,Rose Bowl,Programado,DEMO
-6,2026-06-13,21:00,Uruguay,Japón,,,F,Grupo,Hard Rock Stadium,Programado,DEMO
-7,2026-06-14,15:00,Italia,Colombia,,,G,Grupo,Lincoln Financial Field,Programado,DEMO
-8,2026-06-14,18:00,Países Bajos,Australia,,,H,Grupo,Gillette Stadium,Programado,DEMO
-9,2026-06-15,18:00,Argentina,Arabia Saudita,,,A,Grupo,MetLife Stadium,Programado,DEMO
-10,2026-06-15,21:00,España,Camerún,,,B,Grupo,SoFi Stadium,Programado,DEMO
+match_id,date,time,home_team,away_team,home_score,away_score,group,stage,venue,status,data_status,source_name,source_url,last_updated,notes
+1,2026-06-12,15:00,Argentina,Marruecos,2,1,A,Grupo,MetLife Stadium,Finalizado,demo,Demo,,2026-06-12,Datos ficticios para pruebas
+2,2026-06-12,18:00,España,Brasil,1,1,B,Grupo,SoFi Stadium,Finalizado,demo,Demo,,2026-06-12,Datos ficticios para pruebas
+3,2026-06-12,21:00,Francia,Alemania,,,C,Grupo,AT&T Stadium,Programado,demo,Demo,,2026-06-12,Datos ficticios para pruebas
+4,2026-06-13,15:00,Portugal,Senegal,,,D,Grupo,Levi's Stadium,Programado,demo,Demo,,2026-06-12,Datos ficticios para pruebas
+5,2026-06-13,18:00,Inglaterra,México,,,E,Grupo,Rose Bowl,Programado,demo,Demo,,2026-06-12,Datos ficticios para pruebas
+6,2026-06-13,21:00,Uruguay,Japón,,,F,Grupo,Hard Rock Stadium,Programado,demo,Demo,,2026-06-12,Datos ficticios para pruebas
+7,2026-06-14,15:00,Italia,Colombia,,,G,Grupo,Lincoln Financial Field,Programado,demo,Demo,,2026-06-12,Datos ficticios para pruebas
+8,2026-06-14,18:00,Países Bajos,Australia,,,H,Grupo,Gillette Stadium,Programado,demo,Demo,,2026-06-12,Datos ficticios para pruebas
+9,2026-06-15,18:00,Argentina,Arabia Saudita,,,A,Grupo,MetLife Stadium,Programado,demo,Demo,,2026-06-12,Datos ficticios para pruebas
+10,2026-06-15,21:00,España,Camerún,,,B,Grupo,SoFi Stadium,Programado,demo,Demo,,2026-06-12,Datos ficticios para pruebas

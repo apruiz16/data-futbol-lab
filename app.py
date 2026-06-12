@@ -13,6 +13,10 @@ from src.utils import (
     get_upcoming_matches,
     format_result,
     is_demo_data,
+    has_mixed_data,
+    is_verified_data,
+    get_data_status_summary,
+    validate_all_csvs,
 )
 from src.standings import get_group_table, get_global_ranking, get_classification_scenarios
 
@@ -96,9 +100,12 @@ def load_all_data():
 matches, teams, standings = load_all_data()
 
 demo_mode = is_demo_data(matches)
+mixed_mode = has_mixed_data(matches)
+verified_mode = is_verified_data(matches)
 today_matches = get_today_matches(matches)
 upcoming_matches = get_upcoming_matches(matches, days_ahead=7)
 groups = sorted(standings["group"].unique())
+validation_issues = validate_all_csvs(matches, teams, standings)
 
 # ─── Encabezado ────────────────────────────────────────────────────────────────
 st.markdown('<p class="main-title">⚽ Data Fútbol Lab</p>', unsafe_allow_html=True)
@@ -113,8 +120,23 @@ if demo_mode:
         '<div class="demo-badge">⚠️ <strong>Modo DEMO</strong> — '
         'Los datos mostrados son ficticios y se usan solo para pruebas. '
         'No representan resultados oficiales.</div>',
-        unsafe_allow_html=True
+        unsafe_allow_html=True,
     )
+elif mixed_mode:
+    st.markdown(
+        '<div class="demo-badge" style="background:#fff0e0; border-color:#fd7e14; color:#7d3f00;">'
+        '🔶 <strong>Datos mixtos</strong> — Algunos registros son verificados y otros siguen '
+        'siendo DEMO. Revisa la columna <code>data_status</code> en los CSV antes de compartir.</div>',
+        unsafe_allow_html=True,
+    )
+elif verified_mode:
+    st.success("✅ Todos los datos están verificados.")
+
+if validation_issues:
+    with st.sidebar:
+        st.markdown("### ⚠️ Advertencias de datos")
+        for issue in validation_issues:
+            st.warning(issue)
 
 st.markdown("---")
 
